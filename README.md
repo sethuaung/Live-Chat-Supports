@@ -1,2 +1,3 @@
 # MKT
-InHouse
+InHouse collaboration apps.
+Developed by Blisqy
